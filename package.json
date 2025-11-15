@@ -1,0 +1,22 @@
+{
+  "name": "bus-backend",
+  "version": "1.0.0",
+  "description": "Where Is My Bus Backend Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "bus",
+    "gps",
+    "crowd",
+    "esp32",
+    "backend"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
